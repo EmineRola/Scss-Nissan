@@ -5,4 +5,4 @@
 <p>HTML5 CSS3 SAASS/SCSS</p>
 <br>
 
-![](ekran.gif)
+![](ekran1.gif)
